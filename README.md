@@ -1,10 +1,10 @@
 # GardenSCADA
 Automated plant watering is step 1, more to come 
 
-Parts: 
-ESP32 
-Pumps (Peristaltic for precise water distribution)
-Breadboard
+Parts: /n
+ESP32 \n
+Pumps (Peristaltic for precise water distribution) /n
+Breadboard \n
 wire: 18 AWG stranded, red + black
 One bare-wire 12V→5V buck, ~3A (comfortably covers ESP ~0.5A + eight coils ~0.6A)
 Capacitive moisture sensors
@@ -16,3 +16,10 @@ AC -> DC power converter
 Raspery Pi, (not needed yet) 
 SD card
 Dedicated micro-USB cable + 5V wall adapter for the Pi 
+
+Plans: the diagrams
+![powe distribution diagram courtesy of claude](power_distribution_pi_esp_relay_sensors.png)
+	
+
+	
+![relay logic diagram](relay_logic_side_3v3_wiring.png)
