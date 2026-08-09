@@ -45,10 +45,11 @@ Fully wired, tested, and deployed outdoors for the remainder of the growing seas
 ## Why I built this
 
 I wanted a hands-on electronics project. I wanted to actually finish something end-to-end — sensors, control logic, relays, and real hardware, not just software or an architecture mapped in theory. Longer write-up with lessons learned [here](https://ethancearlock.dev/projects/automated-garden).
-Diagram:
+
+#Diagram and pictures:
 ![relay logic diagram](relay_logic_side_3v3_wiring.png) 
 
-Helpful resources: 
+#Helpful resources: 
 ESP info: https://lastminuteengineers.com/esp32-pinout-reference/#esp32-pinout 
 Claude for clarifying questions on principles of electricity and boilerplate code.
 Arduino IDE
