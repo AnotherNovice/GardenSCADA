@@ -48,7 +48,9 @@ I wanted a hands-on electronics project. I wanted to actually finish something e
 
 #Diagram and pictures:
 ![relay logic diagram](relay_logic_side_3v3_wiring.png) 
-
+![DC power, Fuse and Splitter and Buck](DCPower_fuse_splitter_buck.jpg)
+![Environment protection casing](EverythingInBox.jpg)
+![final set up](final_setup.jpg)
 #Helpful resources: 
 ESP info: https://lastminuteengineers.com/esp32-pinout-reference/#esp32-pinout 
 Claude for clarifying questions on principles of electricity and boilerplate code.
